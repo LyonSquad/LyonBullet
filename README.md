@@ -1,5 +1,5 @@
 # LyonBullet
-[![Build status](https://t.me/imakeconfigs)
+[Build status](https://t.me/imakeconfigs)
 
 Link to the [Official Forum](https://t.me/imakeconfigs)
 
@@ -7,11 +7,11 @@ The Plugin System was released with version 1.2.0. You can find a [sample Plugin
 
 - - - -
 
-LyonBullet is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results. This software can be used for **scraping** and **parsing data**, automated **pentesting**, unit testing through **selenium** and much more.
+**LyonBullet** is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results. This software can be used for **scraping** and **parsing data**, automated **pentesting**, unit testing through **selenium** and much more.
 
 **IMPORTANT!** Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is **illegal!** The developer will not be held responsible for improper use of this software.
 
-![Runner](https://i.ibb.co/0jCPpmP/lyonbullet-front.png)
+[Runner](https://i.ibb.co/0jCPpmP/lyonbullet-front.png)
 
 [Here](https://discord.gg/7QFCFuyAZw) you can find the complete documentation for **usage**, **config making** and the **RuriLib API**.
 
@@ -38,4 +38,5 @@ If you like this software, consider making a donation to the developer. Thank yo
 
 # Contact
 Telegram: [Here](https://t.me/YashveerGamingBot)
+
 Discord: [Here](https://discord.gg/7QFCFuyAZw)
