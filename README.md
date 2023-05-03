@@ -11,7 +11,7 @@ The Plugin System was released with version 1.2.0. You can find a [sample Plugin
 
 **IMPORTANT!** Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is **illegal!** The developer will not be held responsible for improper use of this software.
 
-[Runner](https://i.ibb.co/0jCPpmP/lyonbullet-front.png)
+![Runner](https://i.ibb.co/0jCPpmP/lyonbullet-front.png)
 
 [Here](https://discord.gg/7QFCFuyAZw) you can find the complete documentation for **usage**, **config making** and the **RuriLib API**.
 
